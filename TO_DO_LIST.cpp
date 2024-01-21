@@ -19,10 +19,9 @@ void removetask(vector<Task>& tasks, int taskindex);
 
 int main() {
     vector<Task> tasks;
-
     int choice;
     string description;
-
+    
     do {
         menu();
         cin >> choice;
