@@ -12,7 +12,7 @@ Follow the steps below to run the program:
 
 ## Usage
 
-### Menu Options
+### Menu Options:
 
 1. **Add Task:** Add a new task to your to-do list.
 2. **View Tasks:** Display the current tasks in your to-do list.
